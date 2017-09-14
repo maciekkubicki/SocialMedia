@@ -1,0 +1,144 @@
+body {margin: 0px; font-family: Tahoma, Geneva; font-size: 14px;}
+#pageTop
+{
+    background:url(header.png) repeat-x;
+    height: 81px;
+}
+#pageTop > #pageTopWrap
+{
+    width: 1000px;    
+    margin: 0px auto;
+    height: 81px;
+    
+}
+#pageTop > #pageTopWrap > #logo
+{
+    
+    float: left;
+    height: 81px;
+    width: 160px;
+    
+}
+#pageTop > #pageTopWrap > #rest
+{
+    
+    float: left;
+    height: 81px;
+    width: 830px;
+    
+    
+}
+#pageTop > #pageTopWrap > #rest > #menu1
+{
+    
+    
+    height: 35px;
+
+    
+    
+    
+}
+
+#pageTop > #pageTopWrap > #rest > #menu1 > div
+{
+    
+    
+    padding: 4px; 
+    margin-top: 2px;
+    text-align:right;
+    
+}
+#pageTop > #pageTopWrap > #rest > #menu1 > div > a
+{
+    color:#000;
+    text-decoration: none;
+    
+}
+#pageTop > #pageTopWrap > #rest > #menu1 > div > a:hover
+{
+    color:#C0E37D;
+}
+#pageTop > #pageTopWrap > #rest > #menu2
+{
+    
+    
+    height: 35px;
+    display: none;
+
+    
+    
+    
+}
+#pageTop > #pageTopWrap > #rest > #menu2 > div
+{
+    
+    
+    padding: 4px; 
+    margin-top: 13px;
+    
+}
+#pageTop > #pageTopWrap > #rest > #menu2 > div > a
+{
+    color:#000;
+    text-decoration: none;
+    padding: 0px 6px;
+}
+#pageTop > #pageTopWrap > #rest > #menu2 > div > a:hover
+{
+    color:#C0E37D;
+}
+#pageMiddle
+{
+    
+    background-color: #E9EBF3;
+	width: 1000px;
+	margin: 0px auto;
+    padding: 1px;
+	height: 900px;
+    text-align: center;
+}
+#pageMiddle > #t1
+{
+    margin: 0px auto;
+    margin-bottom: 50px;
+    margin-top: 10px;
+    margin-left: 15px;
+}
+
+#pageBottom{
+	background: #666;
+	padding: 24px;
+	font-size: 12px;
+	color: #002a00;
+	text-align: center;
+}
+
+#register
+{
+    margin-top:0px;
+    margin-left:20px;	
+}
+#register > div 
+{
+    margin-top: 12px;	
+}
+#register > input,select 
+{
+    width: 200px;
+    padding: 3px;
+    background: #F3F9DD;
+}
+#singupbutton 
+{
+    font-size:18px;
+    padding: 12px;
+}
+#terms 
+{
+    text-align: left;
+    border:#CCC 1px solid;
+    background: #F5F5F5;
+    padding: 12px;
+    margin-right:20px;
+    margin-left:20px;
+}

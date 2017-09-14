@@ -1,0 +1,1 @@
+document.getElementById("menu1").innerHTML = "<div><a href='index.php?page=logout'>Logout <?php echo 'buuu'; ?></a></div>";
